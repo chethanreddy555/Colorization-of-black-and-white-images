@@ -6,3 +6,7 @@ This Deep Learning Project aims to provide colorizing black & white images with 
   2. Open-CV
   3. VS Code
   4. Caffe Model(LAB)
+
+
+     ![image](https://github.com/chethanreddy555/Colorization-of-black-and-white-images/assets/116936720/a65d0250-0472-409f-9162-45cc48db8967)
+
