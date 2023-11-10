@@ -23,6 +23,3 @@ pts_in_hull.npy [here](https://github.com/richzhang/colorization/blob/master/res
 #### Step 3 - Run ```demo.py```
 
 
-
-     ![image](https://github.com/chethanreddy555/Colorization-of-black-and-white-images/assets/116936720/a65d0250-0472-409f-9162-45cc48db8967)
-
